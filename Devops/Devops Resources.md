@@ -124,6 +124,9 @@ https://youtu.be/z8U2AFTrbsI?si=PDmKPxpG-yCF0tyq
 
 Day 78 Kubernetes with ArgoCD Image Updater
 https://youtu.be/dtQTovmsVwc?si=fpzhpDeHGj2qifvI
+
+Day 79 Intro to EKS amd GitOps Workflow
+https://www.youtube.com/watch?v=idKf2MJ2njU
 ```
 
 ---
